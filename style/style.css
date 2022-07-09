@@ -87,9 +87,20 @@
   background: #5454d4;
 }
 
+.button_violet:hover {
+  background-color: #2e2ed2;
+  border: 3px solid #0606b8;
+  transition: 0.8s;
+}
+
 .button_transperent {
   background: none;
   color: #5454d4;
   border: 1px solid #5454d4;
   margin-left: 35px;
+}
+
+.button_transperent:hover {
+  border: 3px solid #0606b8;
+  transition: 0.5s;
 }
